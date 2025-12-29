@@ -1,74 +1,206 @@
-# React + TypeScript + Vite
+Boa lembrança — **faz todo sentido** 👍
+Então vamos corrigir o posicionamento: **VOI Digital NÃO é o app**, é **sua agência / estúdio de desenvolvimento de software**.
+Vou te entregar agora um **README de agência de software**, profissional, **em português e inglês**, pensado para:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* recrutadores
+* clientes
+* parceiros
+* portfólio no GitHub
 
-Currently, two official plugins are available:
+Você pode usar **no repositório principal da VOI Digital** (ex: `voi-digital`).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+# 🚀 VOI Digital
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Desenvolvimento de Software • Web • Mobile • Sistemas Sob Medida**
 
-## Expanding the ESLint configuration
+A **VOI Digital** é uma agência de **desenvolvimento de software e soluções digitais**, focada na criação de **sites, aplicações web, apps mobile e sistemas personalizados**, com foco em qualidade, performance e resultado de negócio.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🧠 Sobre a VOI Digital
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+A VOI Digital nasceu para transformar **ideias em software funcional**, utilizando tecnologias modernas e boas práticas de engenharia.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+Trabalhamos com projetos que vão desde:
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+* Landing pages de alta conversão
+* Sistemas web completos
+* Aplicações mobile
+* APIs e backends escaláveis
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Sempre com foco em:
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-# voi-digital
+* Código limpo
+* Arquitetura sólida
+* Experiência do usuário
+* Soluções práticas para problemas reais
+
+---
+
+## 🛠️ Serviços
+
+* 🌐 **Desenvolvimento Web**
+
+  * Sites institucionais
+  * Landing pages
+  * Sistemas web sob medida
+
+* 📱 **Desenvolvimento Mobile**
+
+  * Aplicações Android e iOS
+  * React Native
+
+* ⚙️ **Back-end & APIs**
+
+  * APIs REST
+  * Integrações
+  * Autenticação e bancos de dados
+
+* 📊 **Soluções em Dados**
+
+  * Automação
+  * Análise de dados
+  * Machine Learning (quando aplicável)
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+* **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind
+* **Mobile:** React Native
+* **Backend:** Node.js, Express
+* **Banco de Dados:** PostgreSQL, MongoDB, SQLite, Prisma
+* **Data & AI:** Python, Pandas, NumPy, Scikit-learn
+* **Infra & Deploy:** Git, GitHub, Netlify
+
+---
+
+## 📌 Projetos em Destaque
+
+* **VOI App** – Aplicativo de organização e produtividade
+  👉 [https://play.google.com/store/apps/details?id=com.devautomafeb.voi](https://play.google.com/store/apps/details?id=com.devautomafeb.voi)
+
+* **MEDSAÚDE** – Site profissional com foco em geração de leads
+  👉 [https://medsaude-thamiris.netlify.app](https://medsaude-thamiris.netlify.app)
+
+*(Outros projetos disponíveis nos repositórios deste GitHub)*
+
+---
+
+## 🎯 Missão
+
+Criar software **simples, eficiente e bem construído**, ajudando empresas e profissionais a resolver problemas reais através da tecnologia.
+
+---
+
+## 👨‍💻 Fundador & Desenvolvedor
+
+**Bruno Elyezer Fonseca**
+Software Engineer | Full Stack Developer
+
+🔗 GitHub: [https://github.com/devautomafeb](https://github.com/devautomafeb)
+📧 Email: [devautomafeb@gmail.com](mailto:devautomafeb@gmail.com)
+
+---
+
+---
+
+# 🚀 VOI Digital (English)
+
+**Software Development • Web • Mobile • Custom Systems**
+
+VOI Digital is a **software development agency** focused on building **web applications, mobile apps, and custom digital systems**, delivering high-quality, scalable and business-oriented solutions.
+
+---
+
+## 🧠 About VOI Digital
+
+VOI Digital was created to transform **ideas into reliable software** using modern technologies and solid engineering practices.
+
+We work on projects such as:
+
+* High-conversion landing pages
+* Full web systems
+* Mobile applications
+* Scalable APIs and backends
+
+Always focusing on:
+
+* Clean code
+* Solid architecture
+* User experience
+* Practical business solutions
+
+---
+
+## 🛠️ Services
+
+* 🌐 **Web Development**
+
+  * Websites
+  * Landing pages
+  * Custom web systems
+
+* 📱 **Mobile Development**
+
+  * Android & iOS apps
+  * React Native
+
+* ⚙️ **Backend & APIs**
+
+  * REST APIs
+  * Integrations
+  * Authentication & databases
+
+* 📊 **Data Solutions**
+
+  * Automation
+  * Data analysis
+  * Machine Learning (when applicable)
+
+---
+
+## 💻 Tech Stack
+
+* **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind
+* **Mobile:** React Native
+* **Backend:** Node.js, Express
+* **Databases:** PostgreSQL, MongoDB, SQLite, Prisma
+* **Data & AI:** Python, Pandas, NumPy, Scikit-learn
+* **Infra & Deploy:** Git, GitHub, Netlify
+
+---
+
+## 🎯 Mission
+
+To build **clean, efficient and scalable software**, helping businesses turn ideas into real digital solutions.
+
+---
+
+## 👨‍💻 Founder & Developer
+
+**Bruno Elyezer Fonseca**
+Software Engineer | Full Stack Developer
+
+🔗 GitHub: [https://github.com/devautomafeb](https://github.com/devautomafeb)
+📧 Email: [devautomafeb@gmail.com](mailto:devautomafeb@gmail.com)
+
+---
+
+## ⭐ Contact
+
+Interested in working together?
+Feel free to reach out by email or GitHub.
+
+---
+
+Se quiser, eu posso:
+
+* deixar o README **mais comercial (estilo agência premium)**
+* criar uma versão **curta para clientes**
+* adaptar esse texto para **site institucional da VOI Digital**
+* criar um **slogan forte** para a VOI
+
+👉 Quer deixar a VOI mais **agência premium** ou mais **estúdio técnico**?
