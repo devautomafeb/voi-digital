@@ -1,13 +1,3 @@
-Boa lembrança — **faz todo sentido** 👍
-Então vamos corrigir o posicionamento: **VOI Digital NÃO é o app**, é **sua agência / estúdio de desenvolvimento de software**.
-Vou te entregar agora um **README de agência de software**, profissional, **em português e inglês**, pensado para:
-
-* recrutadores
-* clientes
-* parceiros
-* portfólio no GitHub
-
-Você pode usar **no repositório principal da VOI Digital** (ex: `voi-digital`).
 
 ---
 
